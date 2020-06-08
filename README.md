@@ -3,7 +3,7 @@
     Websocket - CHAT
   </h2>
   <p align="center">
-    Projeto realizado para o curso de ciência da computação, afim de ganhar pontuação da materia de sistema distribuido.
+    Projeto realizado para o curso de ciência da computação, afim de ganhar pontuação na materia de sistema distribuido do projeto Ramon Tenório.
   </p>
 </p>
 
