@@ -7,10 +7,9 @@
   </p>
 </p>
 
-<div align="center">
-    ![screenshot](https://i.imgur.com/sKZSxdA.png)
-</div>
-
+<p align="center">
+  <img src="https://i.imgur.com/sKZSxdA.png"/>
+</p>
 
 ## Executar projeto
 
