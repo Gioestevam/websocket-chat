@@ -7,7 +7,7 @@
   </p>
 </p>
 
-(https://i.imgur.com/sKZSxdA.png);
+![screenshot](https://i.imgur.com/sKZSxdA.png);
 
 ## Executar projeto
 
